@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.Tech. in Computer Science and Engineering, National Institute of Technology Durgapur, India, 2018
 * M.S. in Computer Science, University of Minnesota, Twin Cities, 2020
 
-Work experience
+## Work experience
 ======
-* Summer 2017: Data Science Intern
-  * Chegg Inc, San Francisco
-  * Duties included: Tagging issues
-  * Supervisor: Dr. Sanghamitra Deb
+#### Data Science Intern at Chegg Inc, San Francisco (June'19 - August'19)
+* Improved more than 60% of Chegg Study data by building an end-to-end Computer Vision Pipeline for classifying image data according to quality and source, and ROI cropping: involving problem formulation, data acquisition, annotation and classification.
+* Achieved 90.85% accuracy on the image classification model · Tools and Algorithms Used: Python, PyTorch, OpenCV, Pandas, AWS SageMaker GT, Image Processing, CNN
+* Supervisor: Dr. Sanghamitra Deb
 
 * Fall 2015: Research Assistant
   * Github University
