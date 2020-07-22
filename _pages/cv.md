@@ -35,27 +35,11 @@ redirect_from:
 
 ## Skills
 **Programming languages**: Python, C/C++, R, SQL
+
 **Machine Learning Tools**: PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, OpenAI Gym, MATLAB
+
 **Big Data Tools**: Spark, Hive, Pig, HBase, BaseX, XQuery, MapReduce, QGIS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Courses
+
+## Projects
