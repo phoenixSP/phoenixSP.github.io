@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science and Engineering, National Institute of Technology Durgapur, India, 2018
+* M.S. in Computer Science, University of Minnesota, Twin Cities, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2017: Data Science Intern
+  * Chegg Inc, San Francisco
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Sanghamitra Deb
 
 * Fall 2015: Research Assistant
   * Github University
