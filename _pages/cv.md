@@ -34,12 +34,27 @@ redirect_from:
 * Tools Used: C++, OpenCV, OpenGL, CUDA
 
 ## Skills
-**Programming languages**: Python, C/C++, R, SQL
+* **Programming languages**: Python, C/C++, R, SQL
 
-**Machine Learning Tools**: PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, OpenAI Gym, MATLAB
+* **Machine Learning Tools**: PyTorch, TensorFlow, OpenCV, NumPy, SciPy, Pandas, OpenAI Gym, MATLAB
 
-**Big Data Tools**: Spark, Hive, Pig, HBase, BaseX, XQuery, MapReduce, QGIS
+* **Big Data Tools**: Spark, Hive, Pig, HBase, BaseX, XQuery, MapReduce, QGIS
 
 ## Courses
 
+Software Engineering, Algorithms and Data Structure, Operating System, Machine Learning, Computer Vision, Advanced Artificial Intelligence, Big Data Engineering, Database Management System, Data Mining, Non-Linear Optimization, Time Series Analysis, Digital Image Processing
+
 ## Projects
+
+* **Hadoop Ecosystem Project**: Developed ETL pipeline for Airport and Flights data using Hive and using HiveQL for analysing the data and answering business questions, used Hadoop streaming for creating custom mapper reducer functions
+
+* **Yelp data analysis**: Ingested the Yelp dataset in BaseX after transforming the JSON data into XML and using Xquery for querying, then analyzing it in the application layer using python packages like ElementTree, Mlxtend and performing map visualizations using gmplot in a team of four
+
+* **Roof classification in Aerial images**: Formulated classification of roof materials in aerial images as a multi-class segmentation, handled challenges like Very-High Resolution (VHR) and missing annotations with CNN-based architectures of different depth and complexity, and a selective loss function to reduce the effect of noisy labels
+
+* **Road Detection in Satellite Images**: Developed a method that automatically estimates road networks from hyperspectral satellite images using the CNN-based U-net architecture. Achieved promising dice coefficients for SpaceNet data
+
+* **Stock Market Strategy Prediction using Reinforcement Learning**: Explored the application of Reinforcement Learning in Stocks Portfolio Optimization using different model-free algorithms and their DNN variations: Q-Learning, Policy Gradient and Actor-Critic Methods
+
+* **Software package for UGAN**: Explored Conditional Generative Adversarial Networks for Underwater Image Correction and optimized UGAN to deployed it on NVIDIA Jetson TX2 and achieved an real-time inference speed of 22.69fps
+
