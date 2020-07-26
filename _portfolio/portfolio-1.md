@@ -7,11 +7,10 @@ collection: portfolio
 This repository explores the Pima Indians Diabetes Dataset in detail, covering exploratory data analysis, handling of missing data using different techniques and prediction using different classification algorithms.
 
 Missing data handling:
+* KNN
+* MICE
 
-KNN
-MICE
 Classification:
-
-Logistic regression
-SVM
-XGBoost
+* Logistic regression
+* SVM
+* XGBoost
