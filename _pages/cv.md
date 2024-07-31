@@ -12,7 +12,7 @@ redirect_from:
 **Minneapolis, MN**  
 **Phone:** 612-666-3218  
 **Email:** pal.shreyasi001@gmail.com  
-**[Personal Website](https://www.example.com)** | **[GitHub](https://github.com)** | **[LinkedIn](https://www.linkedin.com)**
+**[Personal Website](https://phoenixsp.github.io/)** | **[GitHub](https://github.com/phoenixSP)** | **[LinkedIn](https://www.linkedin.com/in/phoenixsp/)**
 
 ---
 
