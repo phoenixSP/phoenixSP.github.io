@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Shreyasi Pal
-
 **Minneapolis, MN**  
 **Phone:** 612-666-3218  
 **Email:** pal.shreyasi001@gmail.com  
